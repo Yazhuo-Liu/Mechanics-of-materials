@@ -19,22 +19,40 @@ Differential Equations
 * https://solidmechanics.org/
 
 ### Topics Covered:
-1. Definition of stress and strain
-2. Deformation of axially loaded members
-3. Thermal deformation
-4. Torsion of circular bars
-5. Shear force and bending moment diagrams
-6. Normal stress in beams
-7. Properties of sections
-8. Shear stress in beams
-9. Built-up beams
-10. Elastic-perfectly plastic
-11. Unsymmetric bending
-12. Beam deflection
-13. Curvature and beam deflection equation
-14. Stress and strain transformation at a point
-15. Principal stresses and maximum shear stress
-16. Mohr’s circle
-17. Principal stresses in beams
-18. Combined bending and axial loading
-19. Column buckling
+1. Introduction to Mechanics of Materials
+- Definition of stress and strain
+- Mechanical properties of materials
+2. Axial Loading
+- Normal stress and strain
+- Thermal stresses
+- Elastic deformation and Hooke's Law
+3. Torsion
+- Shear stress and strain
+- Torsional deformation of circular shafts
+- Power transmission
+4. Bending
+- Types of beams and loads
+- Shear force and bending moment diagrams
+- Normal stress in beams
+- Properties of sections
+- Shear stress in beams
+- St. Venant's principle
+- Built-up beams
+- Elastic-perfectly plastic
+- Unsymmetric bending
+- Beam deflection
+- Curvature and beam deflection equation
+5. Stress transformation
+- Stress and strain transformation at a point
+- Principal stresses and maximum shear stress
+- Mohr’s circle
+- Principal stresses in beams
+6. Combined deformation
+- Combined bending and axial loading
+7. Columns:
+- Buckling and instability
+- Euler's formula for column buckling
+8. Introduction to Energy Methods:
+- Work and strain energy
+- Castigliano's theorems
+9. Dynamic loads*
