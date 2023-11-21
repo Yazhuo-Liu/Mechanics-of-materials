@@ -19,18 +19,21 @@ Differential Equations
 * https://solidmechanics.org/
 
 ### Topics Covered
-1. **Introduction to Mechanics of Materials**
+**1. Introduction to Mechanics of Materials**
 - Definition of stress and strain
 - Mechanical properties of materials
-2. **Axial Loading**
+
+**2. Axial Loading**
 - Normal stress and strain
 - Thermal stresses
 - Elastic deformation and Hooke's Law
-3. **Torsion**
+
+**3. Torsion**
 - Shear stress and strain
 - Torsional deformation of circular shafts
 - Power transmission
-4. **Bending**
+
+**4. Bending**
 - Types of beams and loads
 - Shear force and bending moment diagrams
 - Normal stress in beams
@@ -42,17 +45,22 @@ Differential Equations
 - Unsymmetric bending
 - Beam deflection
 - Curvature and beam deflection equation
-5. **Stress transformation**
+
+**5. Stress transformation**
 - Stress and strain transformation at a point
 - Principal stresses and maximum shear stress
 - Mohr’s circle
 - Principal stresses in beams
-6. **Combined deformation**
+  
+**6. Combined deformation**
 - Combined bending and axial loading
-7. **Columns**
+
+**7. Columns**
 - Buckling and instability
 - Euler's formula for column buckling
-8. **Introduction to Energy Methods**
+
+**8. Introduction to Energy Methods**
 - Work and strain energy
 - Castigliano's theorems
-9. ** Dynamic loads* **
+
+**9. *Dynamic loads***
