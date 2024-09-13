@@ -25,9 +25,7 @@
     - $E = 30 \times 10^6 \ 	ext{psi}$ (modulus of elasticity),
     - $\alpha = 9.6 \times 10^{-6} \ /\ ^\circ F$ (coefficient of thermal expansion).
   - A temperature increase of $\Delta T = 100^\circ F$ produces the same strain as a stress:
-    $$
-    \sigma = E \alpha \Delta T = (30 \times 10^6) \times (9.6 \times 10^{-6}) \times 100 = 29,000 \ 	ext{psi}
-    $$
+    $$\sigma = E \alpha \Delta T = (30 \times 10^6) \times (9.6 \times 10^{-6}) \times 100 = 29,000 \ 	ext{psi}$$
     This shows how even a **modest change in temperature** can induce significant stresses.
 
 - Difference between ***thermal strain*** and ***mechanical strain***:
