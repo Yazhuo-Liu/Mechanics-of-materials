@@ -24,9 +24,10 @@
     - $E = 30 \times 10^6 \ 	ext{psi}$ (modulus of elasticity),
     - $\alpha = 9.6 \times 10^{-6} \ /\ ^\circ F$ (coefficient of thermal expansion).
   - A temperature increase of $\Delta T = 100^\circ F$ produces the same strain as a stress:
-    $$
-    \sigma = E \alpha \Delta T = (30 \times 10^6) \times (9.6 \times 10^{-6}) \times 100 = 29,000 \ 	ext{psi}
-    $$
+
+    $$\sigma = E \alpha \Delta T = (30 \times 10^6) \times (9.6 \times 10^{-6}) \times 100 = 29,000 
+ \text{psi}$$
+    
     This shows how even a **modest change in temperature** can induce significant stresses.
 
 - Difference between ***thermal strain*** and ***mechanical strain***:
@@ -42,7 +43,8 @@
 ### 2. Thermal Expansion in Structures
 
 - **Free Thermal Expansion**: 
-  - For a **free object** (like a block), thermal expansion occurs without developing stresses 
+  - For a **free object** (like a block), thermal expansion occurs without developing stresses
+
     ![](/Figures/2024-09-13-01-09-31.png)
   
   
@@ -54,10 +56,9 @@
     - $\delta_T$ is the **elongation** (displacement) due to thermal expansion.
 
   - Example:
-    - For a bar of length $L = 1 \ 	ext{m}$, $\alpha = 12 \times 10^{-6} \ /\ ^\circ C$, and $\Delta T = 50^\circ C$, the expansion is:
-      $$
-      \delta_T = (1) \times (12 \times 10^{-6}) \times (50) = 0.6 \ 	ext{mm}
-      $$
+    - For a bar of length $L = 1 \text{m}$, $\alpha = 12 \times 10^{-6} \ /\ ^\circ C$, and $\Delta T = 50^\circ C$, the expansion is:
+    - 
+      $$\delta_T = (1) \times (12 \times 10^{-6}) \times (50) = 0.6 \text{mm}$$
 
 - **Thermal Strain in a Bar**:
   - In a prismatic bar (Figure 2-38), thermal expansion is uniform along the bar, and the increase in length is given by:
