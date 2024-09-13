@@ -26,7 +26,8 @@
     - $\alpha = 9.6 \times 10^{-6} \ /\ ^\circ F$ (coefficient of thermal expansion).
   - A temperature increase of $\Delta T = 100^\circ F$ produces the same strain as a stress:
 
-    $$\sigma = E \alpha \Delta T = (30 \times 10^6) \times (9.6 \times 10^{-6}) \times 100 = 29,000 \text{psi}$$
+    $$\sigma = E \alpha \Delta T = (30 \times 10^6) \times (9.6 \times 10^{-6}) \times 100 = 29,000 
+ \text{psi}$$
     
     This shows how even a **modest change in temperature** can induce significant stresses.
 
@@ -56,7 +57,7 @@
     - $\delta_T$ is the **elongation** (displacement) due to thermal expansion.
 
   - Example:
-    - For a bar of length $L = 1 \ 	ext{m}$, $\alpha = 12 \times 10^{-6} \ /\ ^\circ C$, and $\Delta T = 50^\circ C$, the expansion is:
+    - For a bar of length $L = 1 \text{m}$, $\alpha = 12 \times 10^{-6} \ /\ ^\circ C$, and $\Delta T = 50^\circ C$, the expansion is:
     - 
       $$\delta_T = (1) \times (12 \times 10^{-6}) \times (50) = 0.6 \text{mm}$$
 
