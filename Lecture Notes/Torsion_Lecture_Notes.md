@@ -9,8 +9,6 @@
   - Drive shafts in automobiles
   - Axles, propeller shafts, and drill bits
 
-#### Figure 3-1: Torsion of a screwdriver due to a torque $T$ applied to the handle
-
 ---
 
 ## 2. Torque and Moment of a Couple
@@ -51,40 +49,40 @@
 
 - **Deformation:** Consider a circular bar subjected to a torque $T$ applied at both ends.
   - Each cross-section rotates relative to the fixed end.
-  - The bar's length remains unchanged, and cross sections remain circular.
+  - Cross sections remain plane, circular, all radii remain straight.
+  - If angle of rotation is small, lenght of the bar and its radius remain unchanged.
 
 - **Angle of Twist $\phi$:**  
   The angular displacement between two sections.
 
 ![](/Figures/2024-09-13-15-26-34.png)
 
+
+
 - **Shear Strain $\gamma$:**  
-  The shear strain on the surface of the bar is related to the angle of twist as:
-  $$\gamma = r \cdot \frac{d\phi}{dx}$$
-
-  where:
-  - $r$ is the radius of the bar
-  - $\frac{d\phi}{dx}$ is the rate of change of twist along the bar’s length
-
----
-
-## 5. Shear Strain Distribution
-
-- **At the Surface:** Maximum shear strain occurs at the outer surface.
   
-  **Shear strain equation at surface:**
-  $$\gamma_{\text{max}} = r \cdot \frac{\phi}{L}$$ 
+  ![](/Figures/2024-09-13-15-28-41.png)
 
-  where:
-  - $L$ is the length of the bar
+  - **At the Surface:** Maximum shear strain occurs at the outer surface. The shear strain on the surface of the bar is related to the angle of twist as:
+  
+    $$\gamma_{\text{max}} = \frac{bb'}{ab} = \frac{rd\phi}{dx}$$ 
 
-- **Strain varies linearly** with radial distance from the center, reaching zero at the center.
+    where:
+    - $r$ is the radius of the bar
+    - $\frac{d\phi}{dx}$ is the rate of change of twist along the bar’s length
 
-![](/Figures/2024-09-13-15-28-41.png)
+    if $\theta = \frac{d\phi}{dx}$ is a constant, then
+    $$\gamma_\text{max} = r\theta = r \frac{\phi}{L}$$
+
+    where:
+    - $L$ is the length of the bar
+  - **Strain varies linearly** with radial distance from the center, reaching zero at the center.
+
+    $$\gamma = \rho \frac{d\phi}{dx} = \frac{\rho}{r} \gamma_\text{max}$$ 
 
 ---
 
-## 6. Shear Strain in Circular Tubes
+## 5. Shear Strain in Circular Tubes
 
 - For a **circular tube** with inner radius $r_1$ and outer radius $r_2$, shear strain also varies linearly from the inner to the outer surface.
   
@@ -95,15 +93,15 @@
   
   $$\gamma_{\text{min}} = \frac{r_1}{L} \cdot \phi$$
   
-
-#### Figure 3-5: Shear strains in a circular tube
+![](/Figures/2024-09-13-17-02-31.png)
 
 ---
 
-## 7. Conclusion
+## 6. Conclusion
 
 - Torsion creates a state of pure shear.
 - Shear strain and stress vary linearly with radial distance from the center of a circular bar, reaching a maximum at the outer surface.
 - The equations for shear strain are applicable to both solid bars and hollow tubes.
+- the concept of shear strain is a **geometric concept**, valid for any mater but $\phi$ and $\theta$ should be **small**.
 
 ---
