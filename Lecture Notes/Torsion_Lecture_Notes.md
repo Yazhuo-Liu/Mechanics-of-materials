@@ -17,10 +17,10 @@
   
   **Formula:**  
 
-    $$T = F \times d$$
+    $$T = P \times d$$
 
   where:
-  - $F$ is the applied force
+  - $P$ is the applied force
   - $d$ is the perpendicular distance between forces.
 
 - **Units of Torque:**
