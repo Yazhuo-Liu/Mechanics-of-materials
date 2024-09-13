@@ -91,7 +91,7 @@
   $$\gamma_{\text{max}} = \frac{r_2}{L} \cdot \phi$$
 
   
-  $$\gamma_{\text{min}} = \frac{r_1}{L} \cdot \phi$$
+  $$\gamma_{\text{min}} = \frac{r_1}{r_2} \gamma_\text{max} = \frac{r_1}{L} \cdot \phi$$
   
 ![](/Figures/2024-09-13-17-02-31.png)
 
