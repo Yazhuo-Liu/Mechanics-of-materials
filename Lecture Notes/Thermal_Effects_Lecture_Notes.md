@@ -58,9 +58,7 @@
   - Example:
     - For a bar of length $L = 1 \ 	ext{m}$, $\alpha = 12 \times 10^{-6} \ /\ ^\circ C$, and $\Delta T = 50^\circ C$, the expansion is:
     - 
-      $$
-      \delta_T = (1) \times (12 \times 10^{-6}) \times (50) = 0.6 \text{mm}
-      $$
+      $$\delta_T = (1) \times (12 \times 10^{-6}) \times (50) = 0.6 \text{mm}$$
 
 - **Thermal Strain in a Bar**:
   - In a prismatic bar (Figure 2-38), thermal expansion is uniform along the bar, and the increase in length is given by:
