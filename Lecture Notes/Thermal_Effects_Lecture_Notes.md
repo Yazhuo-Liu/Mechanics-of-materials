@@ -43,7 +43,8 @@
 ### 2. Thermal Expansion in Structures
 
 - **Free Thermal Expansion**: 
-  - For a **free object** (like a block), thermal expansion occurs without developing stresses 
+  - For a **free object** (like a block), thermal expansion occurs without developing stresses
+
     ![](/Figures/2024-09-13-01-09-31.png)
   
   
