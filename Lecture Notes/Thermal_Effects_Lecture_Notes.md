@@ -1,5 +1,4 @@
-
-# Lecture Topic: Thermal Effects and Statically Indeterminate Problems
+# Lecture Notes: Thermal Effects and Statically Indeterminate Problems
 
 ---
 
