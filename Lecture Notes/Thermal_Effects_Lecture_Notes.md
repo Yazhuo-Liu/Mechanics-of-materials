@@ -21,7 +21,7 @@
 
 - **Example Calculation**: 
   - Let’s consider a **stainless steel** bar where:
-    - $E = 30 \times 10^6 \ 	ext{psi}$ (modulus of elasticity),
+    - $E = 30 \times 10^6 \text{psi}$ (modulus of elasticity),
     - $\alpha = 9.6 \times 10^{-6} \ /\ ^\circ F$ (coefficient of thermal expansion).
   - A temperature increase of $\Delta T = 100^\circ F$ produces the same strain as a stress:
 
