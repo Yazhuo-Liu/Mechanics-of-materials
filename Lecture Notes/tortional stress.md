@@ -142,9 +142,7 @@ The **polar moment of inertia** ($I_p$) is a property of the cross-sectional sha
 
 - For a **hollow circular tube** with inner radius $r_1$ and outer radius $r_2$:
 
-    $$
-    I_p = \frac{\pi (r_2^4 - r_1^4)}{2}
-    $$
+    $$I_p = \frac{\pi (r_2^4 - r_1^4)}{2}$$
 
 
 
@@ -214,15 +212,11 @@ The **maximum shear stress** occurs at the outer surface, while the minimum shea
 
 - **Maximum shear stress** at $r = r_2$:
 
-    $$
-    \tau_{\text{max}} = \frac{T \cdot r_2}{I_p}
-    $$
+    $$\tau_{\text{max}} = \frac{T \cdot r_2}{I_p}$$
 
 - **Shear stress at the inner radius**:
 
-    $$
-    \tau_{\text{min}} = \frac{T \cdot r_1}{I_p}
-    $$
+    $$\tau_{\text{min}} = \frac{T \cdot r_1}{I_p}$$
 
 
 ## 5. Conclusion
